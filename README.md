@@ -2,7 +2,7 @@
 
 ![image](OFDM.jpg)
 ![image](FDMA.jpg)
-![image](Predingcode.jpg)
+![image](Preding code.jpg)
 
 **BPSK (Binary Phase Shift Keying)**
 
