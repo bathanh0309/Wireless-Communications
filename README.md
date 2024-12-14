@@ -39,4 +39,5 @@ Lượng tử hóa:Tín hiệu Tương tự sang số
 Lấy mẫu: Tín hiệu liên tục sang rời rạc.
 
 **Convolution**
+
 Chập hai tín hiệu giúp mô tả hệ thống, quan trọng trong mạng nơ ron (CNN)
