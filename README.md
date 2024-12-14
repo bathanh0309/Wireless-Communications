@@ -1,11 +1,31 @@
 # DSP (Digital Signal Processing)
+**BPSK (Binary Phase Shift Keying)**
+
+Điều chế pha nhị phân
+
+**QAM (Quadrature Amplitude Modulation)**
+
+Điều chế biên độ tứ phân
+
 **SDMA (Space Division Multiple Access)**
 
 Phân chia kênh để nhiều người dùng đồng thời cùng một tần số
 
+**TDMA (Time Division Multiple Access)**
+
+Phân chia thời gian đa truy cập
+
+**CDMA (Code Division Multiple Access)**
+
+Phân chia mã đa truy cập
+
+**FDMA (Frequency Division Multiple Access)**
+
+Phân chia tần số đa truy cập.
+
 **OFDM (Orthogonal Frequency Division Multiplexing)**
 
-Điều chế tín hiệu thành nhiều kênh tần số nhỏ và truyền đồng thời. 
+Đa phân tần tần số trực giao 
 
 **DFT (Discrete Fourier Transform)**
 
