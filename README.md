@@ -36,6 +36,7 @@ Bộ lọc mà phản ứng xung của nó có độ dài hữu hạn, ổn đ�
 Lượng tử hóa:Tín hiệu Tương tự sang số
 
 **Sampling**
+
 Lấy mẫu: Tín hiệu liên tục sang rời rạc.
 
 **Convolution**
