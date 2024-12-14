@@ -1,64 +1,65 @@
 # DSP (Digital Signal Processing)
+
 **BPSK (Binary Phase Shift Keying)**
 
-Điều chế pha nhị phân
+Binary Phase Modulation
 
 **QAM (Quadrature Amplitude Modulation)**
 
-Điều chế biên độ tứ phân
+Quadrature Amplitude Modulation
 
 **SDMA (Space Division Multiple Access)**
 
-Phân chia kênh để nhiều người dùng đồng thời cùng một tần số
+Dividing the channel for multiple simultaneous users on the same frequency
 
 **TDMA (Time Division Multiple Access)**
 
-Phân chia thời gian đa truy cập
+Time Division Multiple Access
 
 **CDMA (Code Division Multiple Access)**
 
-Phân chia mã đa truy cập
+Code Division Multiple Access
 
 **FDMA (Frequency Division Multiple Access)**
 
-Phân chia tần số đa truy cập.
+Frequency Division Multiple Access.
 
 **OFDM (Orthogonal Frequency Division Multiplexing)**
 
-Đa phân tần tần số trực giao 
+Orthogonal Frequency Division Multiplexing
 
 **DFT (Discrete Fourier Transform)**
 
-Biến đổi tín hiệu rời rạt: miền thời gian sang miền tần số
+Discrete signal transformation: time domain to frequency domain
 
 **DTFT (Discrete-Time Fourier Transform)**
 
-Chuyển đổi tín hiệu rời rạt sang tần số liên tục
+Convert discrete signal to continuous frequency
 
 **CTFT (Continuous-Time Fourier Transform)**
 
-Biến đổi tín hiệu liên tục: miền thời gian sang miền tần số
+Convert continuous signal: time domain to frequency domain
 
 **FFT (Fast Fourier Transform)**
 
-Là thuật toán để tính DFT, chia tín hiệu thành các phần nhỏ
+Is an algorithm to calculate DFT, dividing the signal into small parts
 
 **IIR (Infinite Impulse Response)**
 
-Bộ lọc có phản ứng xung vô hạn, không ổn định, thiết kế khó khăn
+Filter with infinite impulse response, unstable, difficult to design
 
 **FIR (Finite Impulse Response)**
 
-Bộ lọc mà phản ứng xung của nó có độ dài hữu hạn, ổn định, 
+Filter whose impulse response has a finite length, stable,
 
 **Quantization**
 
-Lượng tử hóa:Tín hiệu Tương tự sang số
+Quantization: Analog signal to number
 
 **Sampling**
 
-Lấy mẫu: Tín hiệu liên tục sang rời rạc.
+Sampling: Continuous to discrete signals.
 
 **Convolution**
 
-Chập hai tín hiệu giúp mô tả hệ thống, quan trọng trong mạng nơ ron (CNN)
+Convolution of two signals helps describe the system, important in neural networks (CNN)
