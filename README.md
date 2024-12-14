@@ -1,6 +1,6 @@
-# DSP (Digital Signal Processing)
-# SDMA (Space Division Multiple Access)
-# OFDM (Orthogonal Frequency Division Multiplexing)
+** DSP (Digital Signal Processing)**
+## SDMA (Space Division Multiple Access)
+## OFDM (Orthogonal Frequency Division Multiplexing)
 # DFT (Discrete Fourier Transform)
 # DTFT (Discrete-Time Fourier Transform)
 # CTFT (Continuous-Time Fourier Transform)
