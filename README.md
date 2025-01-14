@@ -1,8 +1,7 @@
 # DSP (Digital Signal Processing)
 
 ![image](Media/OFDM.jpg)
-![image](Media/FDMA.jpg)
-![image](Media/Predingcode.jpg)
+<img src="">
 
 **BPSK (Binary Phase Shift Keying)**
 
