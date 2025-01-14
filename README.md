@@ -1,4 +1,4 @@
-# DSP (Digital Signal Processing)
+
 ## Lab1
 
 <img src="TTVT/Lab1/Question.jpg">
