@@ -4,4 +4,4 @@
 <img src="TTVT/Lab1/result.jpg">
 
 TTVT/Lab1/Lab1_42_NguyenBaThanh.m
- [Technical-Report](https://github.com/tranductri2003/PBL04_DUT_Student-CheckIn-System/blob/main/Technical-Report.pdf).
+ [Technical-Report](https://github.com/bathanh0309/DSP-Digital-Signal-Processing/blob/main/TTVT/Lab1/Lab1_42_NguyenBaThanh.m).
