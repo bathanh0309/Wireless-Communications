@@ -18,8 +18,6 @@
 <img src="TTVT/Lab3/Question.jpg">
 
  [Source code](https://github.com/bathanh0309/DSP-Digital-Signal-Processing/blob/main/TTVT/Lab1/Lab3_42_NguyenBaThanh.m)
- 
-<img src="TTVT/Lab3/result.jpg">
 
 <img src="TTVT/Lab3/result b.jpg">
 
