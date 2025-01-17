@@ -44,7 +44,7 @@
 <img src="TTVT/Lab5/result.jpg">
 
 ## Lab6
-<img src="TTVT/Lab5/Question.jpg">
+<img src="TTVT/Lab6/Question.jpg">
 
  [Source code](https://github.com/bathanh0309/DSP-Digital-Signal-Processing/blob/main/TTVT/Lab1/Lab6_42_NguyenBaThanh.m)
  
