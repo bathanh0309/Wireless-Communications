@@ -10,14 +10,14 @@
 ## Lab2
 <img src="TTVT/Lab2/Question.jpg">
 
- [Source code](TTVT/Lab1/Lab2_42_NguyenBaThanh.m)
- 
+ [Source code](TTVT/Lab2/Lab2_42_NguyenBaThanh.m)
+
 <img src="TTVT/Lab2/result.jpg">
 
 ## Lab3
 <img src="TTVT/Lab3/Question.jpg">
 
- [Source code](TTVT/Lab1/Lab3_42_NguyenBaThanh.m)
+ [Source code](TTVT/Lab3/Lab3_42_NguyenBaThanh.m)
 
 <img src="TTVT/Lab3/result b.jpg">
 
@@ -28,7 +28,7 @@
 
 <img src="TTVT/Lab4/QuestionC.jpg">
 
- [Source code](TTVT/Lab1/Lab4_42_NguyenBaThanh.m)
+ [Source code](TTVT/Lab4/Lab4_42_NguyenBaThanh.m)
  
 <img src="TTVT/Lab4/result.jpg">
 
@@ -39,14 +39,14 @@
 
 <img src="TTVT/Lab5/QuestionC.jpg">
 
- [Source code](TTVT/Lab1/Lab5_42_NguyenBaThanh.m)
+ [Source code](TTVT/Lab5/Lab5_42_NguyenBaThanh.m)
  
 <img src="TTVT/Lab5/result.jpg">
 
 ## Lab6
 <img src="TTVT/Lab6/Question.jpg">
 
- [Source code](TTVT/Lab1/Lab6_42_NguyenBaThanh.m)
+ [Source code](TTVT/Lab6/Lab6_42_NguyenBaThanh.m)
  
 <img src="TTVT/Lab6/result 1.jpg">
 
@@ -57,7 +57,7 @@
 
 <img src="TTVT/Lab7/QuestionB.jpg">
 
- [Source code](TTVT/Lab1/Lab7_42_NguyenBaThanh.m)
+ [Source code](TTVT/Lab7/Lab7_42_NguyenBaThanh.m)
  
 <img src="TTVT/Lab7/result.jpg">
 
@@ -68,7 +68,7 @@
 
 <img src="TTVT/Lab8/QuestionC.jpg">
 
- [Source code](TTVT/Lab1/Lab8_42_NguyenBaThanh.m)
+ [Source code](TTVT/Lab8/Lab8_42_NguyenBaThanh.m)
  
 <img src="TTVT/Lab8/result.jpg">
 
